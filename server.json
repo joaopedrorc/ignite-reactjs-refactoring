@@ -5,7 +5,7 @@
       "name": "Ao molho",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
       "price": "19.90",
-      "available": false,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
     {
@@ -23,14 +23,6 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
-    },
-    {
-      "image": "https://www.receitasnestle.com.br/blog-post/receitas-de-macarrao",
-      "name": "Macarrão",
-      "price": "20.30",
-      "description": "Prato de macarrão",
-      "available": false,
-      "id": 4
     },
     {
       "image": "Novo Prato",
