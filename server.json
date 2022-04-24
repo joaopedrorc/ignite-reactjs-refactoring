@@ -1,58 +1,50 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.95",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
-    },
-    {
       "id": 2,
-      "name": "Veggie",
+      "name": "Veggie2",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
       "price": "21.90",
-      "available": true,
+      "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
       "id": 3,
-      "name": "A la Camarón",
+      "name": "A la Camarón\\\\",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
-      "available": false,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
     {
-      "image": "Novo Prato",
+      "image": "Novo Prata",
       "name": "Teste 1",
       "price": "Teste 2",
       "description": "Descrição teste",
-      "available": true,
+      "available": false,
       "id": 5
     },
     {
       "image": "www.google.com",
       "name": "Macarrão ao molho",
-      "price": "2,99",
+      "price": "2,90",
       "description": "Muito bom! ",
       "available": true,
       "id": 6
     },
     {
       "image": "www.facebook.com",
-      "name": "Macarrão ao seco",
+      "name": "Macarrão ao BOm",
       "price": "3.45",
       "description": "Muito!!",
       "available": true,
       "id": 7
     },
     {
-      "image": "www.google.com",
-      "name": "Teste Italiano",
-      "price": "20,00",
-      "description": "Deu certo!",
+      "image": "",
+      "name": "EXEMPLO DE CÓDICO",
+      "price": "19,20",
+      "description": "Muito bonito",
       "available": true,
       "id": 8
     }

@@ -12,10 +12,19 @@ interface PlateProps {
   price: string;
 }
 
+interface FoodType {
+  available: boolean;
+  description: string;
+  id: number;
+  image: string;
+  name: string;
+  price: string;
+}
+
 interface ModalEditFoodProps {
   isOpen: boolean;
-  setIsOpen: () => boolean;
-  editingFood: {};
+  setIsOpen: () => void;
+  editingFood: FoodType | undefined;
   handleUpdateFood: (data: PlateProps) => {};
 }
 

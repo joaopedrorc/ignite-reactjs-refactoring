@@ -5,7 +5,7 @@ import { Container, HeaderDiv, Button, ButtonText, ButtonIcon } from "./styles";
 import Logo from "../../assets/logo.svg";
 
 interface HeaderProps {
-  openModal: () => {};
+  openModal: () => void;
 }
 
 const Header = ({ openModal }: HeaderProps) => {

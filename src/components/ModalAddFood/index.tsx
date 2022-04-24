@@ -14,7 +14,7 @@ interface PlateProps {
 
 interface ModalAddFoodProps {
   isOpen: boolean;
-  setIsOpen: () => {};
+  setIsOpen: () => void;
   handleAddFood: (data: PlateProps) => {};
 }
 
